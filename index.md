@@ -14,7 +14,8 @@ We focus on the integration of social responsibility in engineering curricula an
 
 ### Safe and Ethical AI Integration in Higher Education
 - Development of frameworks for responsible Generative AI adoption in education.
-- Design of educational AI assistants, creation of guidelines for ethical AI use in teaching and learning.
+- Design of educational AI assistants.
+- Creation of guidelines for ethical AI use in teaching and learning.
 - Integration of AI tools aligned with institutional educational strategies.
 - Assessment methodologies for AI-enhanced learning experiences.
 - Study of AI impact on academic integrity and assessment methods.
