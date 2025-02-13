@@ -5,22 +5,25 @@ title: EDUSTeam-ESSI Research Subgroup
 
 # Focus
 
-EDUSTeam-ESSI is a research subgroup of EDUSTEAM Research Group focused on improving and transforming engineering education through innovative teaching methodologies, ethical frameworks, and technology integration. 
+EDUSTeam-ESSI is a research subgroup of the EDUSTEAM Research Group focused on improving and transforming engineering education through innovative teaching methodologies, ethical frameworks, and technology integration. 
 
 ## Research Areas
 
-###Ethics and Sustainability in Engineering Education
-We work in the integration of social responsibility in engineering curricula and in the design of collaborative learning activities for sustainability awareness.
+### Ethics and Sustainability in Engineering Education
+We focus on the integration of social responsibility in engineering curricula and the design of collaborative learning activities for sustainability awareness.
+
+### Safe and Ethical IA integration in higher education
 
 ## Publications
 
-Aquesta pàgina és una **prova** de com generar pàgines dinàmiques i netes utilitzant **Jekyll** i **Markdown**.
+This page is a **test** of how to generate dynamic and clean pages using **Jekyll** and **Markdown**.
 
 ## Projects
 
-- Jekyll converteix fitxers **Markdown** en HTML.
-- Pots utilitzar plantilles per fer el teu lloc web més professional.
+- Jekyll converts **Markdown** files into HTML.
+- You can use templates to make your website more professional.
 
 ## Contact
 
-Per a més informació, pots contactar-nos a través de **correu electrònic** o mitjançant les xarxes socials.
+For more information, feel free to contact us 
+
