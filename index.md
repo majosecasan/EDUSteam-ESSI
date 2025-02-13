@@ -13,16 +13,15 @@ EDUSTeam-ESSI is a research subgroup of the EDUSTEAM Research Group focused on i
 We focus on the integration of social responsibility in engineering curricula and the design of collaborative learning activities for sustainability awareness.
 
 ### Safe and Ethical AI Integration in Higher Education
-Our work is focused on the development of frameworks for responsible Generative AI adoption in education, research on privacy-preserving learning analytics and AI systems, design of educational AI assistants, creation of guidelines for ethical AI use in teaching and learning, integration of AI tools aligned with institutional educational strategies, assessment methodologies for AI-enhanced learning experiences, and study of AI impact on academic integrity and assessment methods.
+Our work is focused on the development of frameworks for responsible Generative AI adoption in education, design of educational AI assistants, creation of guidelines for ethical AI use in teaching and learning, integration of AI tools aligned with institutional educational strategies, assessment methodologies for AI-enhanced learning experiences, and study of AI impact on academic integrity and assessment methods.
 
 ## Publications
 
-This page is a **test** of how to generate dynamic and clean pages using **Jekyll** and **Markdown**.
+
 
 ## Projects
 
-- Jekyll converts **Markdown** files into HTML.
-- You can use templates to make your website more professional.
+
 
 ## Contact
 
