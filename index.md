@@ -1,25 +1,26 @@
 ---
 layout: default
-title: Pàgina de prova
+title: EDUSTeam-ESSI Research Subgroup
 ---
 
-# Benvingut a la meva pàgina de prova!
+# Focus
 
-Aquesta és una pàgina creada amb **Jekyll** i utilitzant Markdown per escriure el contingut.
+EDUSTeam-ESSI is a research subgroup of EDUSTEAM Research Group focused on improving and transforming engineering education through innovative teaching methodologies, ethical frameworks, and technology integration. 
 
-## Secció 1: Introducció
+## Research Areas
 
-Aquí pots afegir informació sobre el teu projecte.
+###Ethics and Sustainability in Engineering Education
+We work in the integration of social responsibility in engineering curricula and in the design of collaborative learning activities for sustainability awareness.
 
-## Secció 2: Característiques
+## Publications
 
 Aquesta pàgina és una **prova** de com generar pàgines dinàmiques i netes utilitzant **Jekyll** i **Markdown**.
 
-### Com funciona Jekyll?
+## Projects
 
 - Jekyll converteix fitxers **Markdown** en HTML.
 - Pots utilitzar plantilles per fer el teu lloc web més professional.
 
-## Contacte
+## Contact
 
 Per a més informació, pots contactar-nos a través de **correu electrònic** o mitjançant les xarxes socials.
