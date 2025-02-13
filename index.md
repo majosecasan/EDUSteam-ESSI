@@ -12,7 +12,8 @@ EDUSTeam-ESSI is a research subgroup of the EDUSTEAM Research Group focused on i
 ### Ethics and Sustainability in Engineering Education
 We focus on the integration of social responsibility in engineering curricula and the design of collaborative learning activities for sustainability awareness.
 
-### Safe and Ethical IA integration in higher education
+### Safe and Ethical AI Integration in Higher Education
+Our work is focused on the development of frameworks for responsible Generative AI adoption in education, research on privacy-preserving learning analytics and AI systems, design of educational AI assistants, creation of guidelines for ethical AI use in teaching and learning, integration of AI tools aligned with institutional educational strategies, assessment methodologies for AI-enhanced learning experiences, and study of AI impact on academic integrity and assessment methods.
 
 ## Publications
 
@@ -25,5 +26,4 @@ This page is a **test** of how to generate dynamic and clean pages using **Jekyl
 
 ## Contact
 
-For more information, feel free to contact us 
-
+For more information, feel free to contact us through **email** or via social media.
