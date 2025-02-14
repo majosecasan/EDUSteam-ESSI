@@ -27,7 +27,7 @@ Design and evaluation of collaborative learning activities, development of asses
 Design of interdisciplinary learning experiences.
 
 ## Publications
-Coming soon!
+[EDUSTEAM Esssi Publications](https://futur.upc.edu/EDUSteam-ESSI)
 
 ## Projects
 Our current projects include...
