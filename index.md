@@ -24,7 +24,7 @@ We focus on the integration of social responsibility in engineering curricula an
 - Design and evaluation of collaborative learning activities, development of assessment tools and rubrics, and integration of real-world cases in engineering education.
 
 ### Innovation in STEAM Teaching Methodologies
--Design of interdisciplinary learning experiences.
+- Design of interdisciplinary learning experiences.
 
 ## Publications
 [EDUSTeam-ESSI Publications](https://futur.upc.edu/EDUSteam-ESSI)
@@ -33,7 +33,7 @@ We focus on the integration of social responsibility in engineering curricula an
 - [Carme Martin Escofet](https://futur.upc.edu/CarmeMartinEscofet)
 - [María José Casany](https://futur.upc.edu/MariaJoseCasanGuerrero)
 - [Marc Alier](https://futur.upc.edu/MarcAlierForment)
-PHD candidates
+### PHD candidates
 - Roberto Alfaro
 - Oscar Bea Torres
 - Sergio Lacruz Orbe
