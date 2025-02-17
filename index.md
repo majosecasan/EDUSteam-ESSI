@@ -21,19 +21,24 @@ We focus on the integration of social responsibility in engineering curricula an
 - Study of AI impact on academic integrity and assessment methods.
 
 ### Active Learning in Engineering Education
-Design and evaluation of collaborative learning activities, development of assessment tools and rubrics, and integration of real-world cases in engineering education.
+- Design and evaluation of collaborative learning activities, development of assessment tools and rubrics, and integration of real-world cases in engineering education.
 
 ### Innovation in STEAM Teaching Methodologies
-Design of interdisciplinary learning experiences.
+-Design of interdisciplinary learning experiences.
 
 ## Publications
-[EDUSTEAM Esssi Publications](https://futur.upc.edu/EDUSteam-ESSI)
+[EDUSTeam-ESSI Publications](https://futur.upc.edu/EDUSteam-ESSI)
 
-## Projects
-Our current projects include...
-
-## Contact
-
-For more information, feel free to contact us through **email** or via social media.
-
+## Members
+- [Carme Martin Escofet](https://futur.upc.edu/CarmeMartinEscofet)
+- [María José Casany](https://futur.upc.edu/MariaJoseCasanGuerrero)
+- [Marc Alier](https://futur.upc.edu/MarcAlierForment)
+PHD candidates
+- Roberto Alfaro
+- Oscar Bea Torres
+- Sergio Lacruz Orbe
+- Alex Miró Mediano
+- Leonardo Saavedra
+- Olga Sans Copé
+- Schweitzer Rocuts
 
